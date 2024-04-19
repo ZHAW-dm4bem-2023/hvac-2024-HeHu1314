@@ -2,7 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZHAW-dm4bem-2023/hvac-2024-HeHu1314/HEAD)
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/cghiaus/dm4bem/blob/main/LICENSE)
 
 **Contents**
